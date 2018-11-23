@@ -1,7 +1,2 @@
-#+TITLE: Anirudh Chauhan's Website
+#+TITLE: Personal Website
 
-TODOS
- - Basic modal layout
- - Video modals
- - Design modals
- - Add all designs and videos
